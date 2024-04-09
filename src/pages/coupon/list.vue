@@ -1,5 +1,5 @@
 <template>
     <div>
-        商品管理
+      优惠券列表
     </div>
 </template>

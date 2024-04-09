@@ -1,5 +1,5 @@
 <template>
     <div>
-        商品管理
+       评价列表
     </div>
 </template>
